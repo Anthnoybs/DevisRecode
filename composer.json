@@ -10,7 +10,7 @@
         "twig/markdown-extra": "^3.0",
         "league/html-to-markdown": "^4.10",
         "phpmailer/phpmailer": "^6.4",
-        "guzzlehttp/guzzle": "7.0"
+        "guzzlehttp/guzzle": "7.4.5"
     }
 
 }
